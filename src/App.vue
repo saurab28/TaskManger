@@ -7,7 +7,7 @@
 
   <p>hello aasrith</p>
 
-  <p>hello world</p>
+  
 
 </template>
 
